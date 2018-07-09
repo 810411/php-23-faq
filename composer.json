@@ -1,0 +1,12 @@
+{
+    "name": "greev/php-23-dp-qa_service",
+    "description": "Diploma work of Netology \"PHP/SQL: back-end\" (php-23) course. Client part & administrate interface for web service of questions & answers.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Grigorii Balabanov",
+            "email": "810411@mail.ru"
+        }
+    ],
+    "require": {}
+}
