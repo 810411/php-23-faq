@@ -1,6 +1,6 @@
 {
-    "name": "greev/php-23-dp-qa_service",
-    "description": "Diploma work of Netology \"PHP/SQL: back-end\" (php-23) course. Client part & administrate interface for web service of questions & answers.",
+    "name": "greev/php-23-dp-faq",
+    "description": "Diploma work of Netology \"PHP/SQL: back-end\" (php-23) course",
     "type": "project",
     "authors": [
         {
@@ -8,5 +8,8 @@
             "email": "810411@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "twig/twig": "^1.35.3",
+        "twbs/bootstrap": "^3.3.7"
+    }
 }
