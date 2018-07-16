@@ -1,7 +1,7 @@
 # PHP-23-DP-FAQ
 
-Diploma work of Netology &#34;PHP/SQL: back-end&#34; (php-23) course. 
-Client part &amp; administrate interface for web service of questions &amp; answers.
+Diploma work of Netology «PHP/SQL: back-end» (php-23) course. 
+Client part and administrate interface for web service of questions and answers.
 
 Дипломная работа по курсу «PHP/SQL: back-end разработка и базы данных».
 Разработать типовой сервис вопросов и ответов. Должна быть реализована клиентская часть сервиса и интерфейс администратора.
