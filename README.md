@@ -19,4 +19,4 @@ Client part and administrate interface for web service of questions and answers.
 7. Ссылки на опубликованный проект:
     - гость http://university.netology.ru/u/balabanov/php-23-faq/index.php
     - админ http://university.netology.ru/u/balabanov/php-23-faq/index.php?/login/
-    
+8. UML схема базы данных в файле faq_bd_uml.png    
