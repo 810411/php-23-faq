@@ -1,5 +1,6 @@
 # PHP-23-DP-FAQ
 
+
 Diploma work of Netology «PHP/SQL: back-end» (php-23) course. 
 Client part and administrate interface for web service of questions and answers.
 
